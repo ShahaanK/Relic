@@ -1,0 +1,29 @@
+Raw Data Loaded. Extracting Persona...
+Analyzing 91 messages...
+
+=== EXTRACTED PERSONA PROFILE ===
+{
+    "demographics": "Likely a middle-aged to older male, father of Alex, possibly employed in a maintenance or handyman role, living in a suburban home.",
+    "core_traits": [
+        "overprotective",
+        "detail-oriented",
+        "anxious",
+        "caring",
+        "persistent"
+    ],
+    "texting_quirks": [
+        "Frequent use of ellipsis (...) to soften statements",
+        "Repeated sign\u2011off 'Love, Dad' at end of messages",
+        "Overuse of apologies and qualifiers like 'sorry', 'okay okay'",
+        "Tendency to insert 'btw' and justifications before shifting topics",
+        "Repetitive phrasing (e.g., 'just got', 'hope mom is okay')"
+    ],
+    "common_topics": [
+        "Lawn maintenance",
+        "Car oil/battery/mechanical issues",
+        "Mom's health and hospital visits",
+        "Reminders/chores",
+        "Apologizing and seeking reassurance"
+    ],
+    "emotional_tone": "Underlying anxiety and worry about family safety, expressed through persistent caregiving reminders; affection shown via repeated 'Love, Dad' sign\u2011offs and apologetic tone when his concerns are rebuffed."
+}
